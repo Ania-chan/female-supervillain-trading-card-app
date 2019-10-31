@@ -4,6 +4,8 @@ Simple app build with Python and jQuery allowing you to add super-villain cards.
 
 Demo: https://female-supervillain-trading-card-app-rest-api.aniachan.repl.co/
 
+![Female Supervillain App](female-supervillain-app.png)
+
 ## Installation
 - create virtual environment:
 ```
